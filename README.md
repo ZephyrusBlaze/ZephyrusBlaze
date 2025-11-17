@@ -79,5 +79,4 @@ It all began back in 8th grade, when curiosity led me to write my very first lin
 <p align="center">
   <a href="https://www.youtube.com/@ZephyrusBlaze" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.kaggle.com/zephyrusblaze" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://discord.com/invite/NMRCdydHwB" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
